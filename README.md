@@ -2,5 +2,3 @@
 
 A simple Flutter project.
 
-## Getting Started
-
